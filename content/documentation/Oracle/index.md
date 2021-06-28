@@ -1,3 +1,11 @@
+---
+title: "Get Data from Oracle Log"
+weight: 1
+type: docs
+description: >
+    A example to show how to get historical data from Oracle Log.
+---
+
 ![](./media/image1.png){width="2.89375in" height="1.0604166666666666in"}
 
 Get Historical Data from Database Log
