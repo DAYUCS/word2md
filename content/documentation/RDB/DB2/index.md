@@ -1,5 +1,5 @@
 ---
-title: "Get Data from DB2 Log"
+title: "2. Get Data from DB2 Log"
 weight: 1
 type: docs
 description: >

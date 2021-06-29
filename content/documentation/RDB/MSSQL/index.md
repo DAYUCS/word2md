@@ -1,5 +1,5 @@
 ---
-title: "Get Data from MS SQL Server Log"
+title: "3. Get Data from MS SQL Server Log"
 weight: 1
 type: docs
 description: >

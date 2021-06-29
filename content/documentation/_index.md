@@ -1,10 +1,10 @@
 ---
-title: "RDB Log"
+title: "Documentation"
 weight: 1
 type: docs
-summary: How to get data from RDB Log.
+summary: A Hugo Site.
 ---
 
-# Get Data from RDB Log
+# Contents
 
-How to get data from RDB Log?
+Here are the contents:

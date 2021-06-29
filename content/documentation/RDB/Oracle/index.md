@@ -1,5 +1,5 @@
 ---
-title: "Get Data from Oracle Log"
+title: "1. Get Data from Oracle Log"
 weight: 1
 type: docs
 description: >
