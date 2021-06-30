@@ -1,6 +1,6 @@
 ---
-title: "3. Get Data from MS SQL Server Log"
-weight: 1
+title: "Get Data from MS SQL Server Log"
+weight: 30
 type: docs
 description: >
     A example to show how to get historical data from MS SQL Server Log.

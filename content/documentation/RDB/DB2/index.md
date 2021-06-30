@@ -1,6 +1,6 @@
 ---
-title: "2. Get Data from DB2 Log"
-weight: 1
+title: "Get Data from DB2 Log"
+weight: 20
 type: docs
 description: >
     A example to show how to get historical data from DB2 Log.

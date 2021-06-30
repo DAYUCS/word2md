@@ -1,6 +1,6 @@
 ---
-title: "1. Get Data from Oracle Log"
-weight: 1
+title: "Get Data from Oracle Log"
+weight: 10
 type: docs
 description: >
     A example to show how to get historical data from Oracle Log.

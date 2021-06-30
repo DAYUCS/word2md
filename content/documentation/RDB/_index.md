@@ -1,6 +1,6 @@
 ---
 title: "Example - RDB Log"
-weight: 1
+weight: 20
 type: docs
 summary: How to get data from RDB Log.
 ---

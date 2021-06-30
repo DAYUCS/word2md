@@ -1,6 +1,6 @@
 ---
 title: "Build Web Site"
-weight: 1
+weight: 10
 type: docs
 summary: How to build a web site with Hugo.
 ---
