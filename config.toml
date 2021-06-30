@@ -1,4 +1,4 @@
-baseURL = "http://github.io/"
+baseURL = "http://DAYUCS.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "docsy"
@@ -8,6 +8,6 @@ theme = "docsy"
   [[menu.main]]
     identifier = "documentation"
     name = "Documentation"
-    pre = "<i class='fa fa-heart'></i>"
+    pre = "<i class='fa fa-book'></i>"
     url = "/documentation/"
     weight = 20
