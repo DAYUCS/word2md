@@ -31,6 +31,7 @@ Detailed Instructions:
 >```
 
 -   Step 3
+>
 > Run Pandoc command to check the installation.
 >```
 >pandoc --version

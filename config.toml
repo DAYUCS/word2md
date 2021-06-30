@@ -11,3 +11,16 @@ theme = "docsy"
     pre = "<i class='fa fa-book'></i>"
     url = "/documentation/"
     weight = 20
+
+[outputs]
+section = ["HTML", "print"]
+
+[params]
+#Enable offline search with Lunr.js
+algolia_docsearch = false
+offlineSearch = true
+offlineSearchSummaryLength = 200
+offlineSearchMaxResults = 25
+
+# Enable syntax highlighting and copy buttons on code blocks with Prism
+prism_syntax_highlighting = true

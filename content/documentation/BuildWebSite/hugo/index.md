@@ -29,6 +29,7 @@ Detailed Instructions:
 >```
 
 -   Step 3
+>
 > Run hugo command to check the installation.
 >```
 >hugo version
@@ -36,6 +37,7 @@ Detailed Instructions:
 > ![The Hugo Version](./media/image.png)
 
 -   Step 4
+>
 > Run hugo command to create a new site.
 >```
 >hugo new site word2md

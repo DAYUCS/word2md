@@ -35,6 +35,7 @@ Detailed Instructions:
 >```
 
 -   Step 3
+>
 > To build and preview your site locally:.
 >```
 >hugo server
